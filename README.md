@@ -602,4 +602,5 @@ Le JAR distribué au client contient seulement `IBanque` et `Compte`, jamais `Ba
 Ce TP a montré comment construire des applications réparties avec Java RMI : interface distante, implémentation, publication dans un registre et invocation à distance. L'activité 5-1 a présenté le cycle de vie complet d'un service avec un cas simple. L'activité 5-2 y a ajouté un objet métier sérialisable, la gestion d'état côté serveur et l'abstraction apportée par JNDI pour l'enregistrement et la recherche des objets distants.#   T P 5 _ D A R  
  #   T P 5 _ D A R  
  #   T P 5 _ D A R  
+ #   T P 5 _ D A R r  
  
